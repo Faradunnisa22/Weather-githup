@@ -99,9 +99,9 @@ input:focus {
 .btn-outline-success {
     --bs-btn-color: #ffffff;
     --bs-btn-border-color: #dae9e2;
-    --bs-btn-hover-color: #e9c2c200;
+    --bs-btn-hover-color: none;
     --bs-btn-active-color: #665252;
-    --bs-body-bg: #6b66661a;
+    --bs-body-bg: none;
 
 }
 
